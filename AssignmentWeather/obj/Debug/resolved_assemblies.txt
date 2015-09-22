@@ -1,0 +1,13 @@
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\heliosweather.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\AndHUD.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\GooglePlayServicesLib.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\Mono.Android.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\mscorlib.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\RestSharp.MonoDroid.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\System.Core.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\System.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\System.Xml.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\System.Xml.Linq.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+D:\Dropbox\Android\HeliosWeather\AssignmentWeather\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll
